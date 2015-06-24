@@ -1,7 +1,8 @@
 Instructions to test the code - 
+
 Download all the files and store in the same folder
 Run command ruby main.rb
-Run command ruby test.rb
+Run command ruby test.rb to run the unit tests 
 
 ===========================================
 
